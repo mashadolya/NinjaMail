@@ -9,7 +9,7 @@ body {
 }
 
 .backround {
-  background: url("/assets/images/bgStuff/BG\ stuff.png");
+  background: url("/assets/images/bgStuff/background-stuff.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -222,7 +222,7 @@ footer {
       #000000 -32.5%,
       rgba(84, 84, 84, 0.0001)
     ),
-    url("/assets/images/learn/jpg/photo.jpg");
+    url("/assets/images/learn/jpg/learn-1.jpg");
 }
 
 .learn__second {
@@ -234,7 +234,7 @@ footer {
       #000000 -32.5%,
       rgba(84, 84, 84, 0.0001)
     ),
-    url("/assets/images/learn/jpg/photo\ \(1\).jpg");
+    url("/assets/images/learn/jpg/learn-2.jpg");
 }
 
 .learn__third {
@@ -246,7 +246,7 @@ footer {
       #000000 -32.5%,
       rgba(84, 84, 84, 0.0001)
     ),
-    url("/assets/images/learn/jpg/photo\ \(2\).jpg");
+    url("/assets/images/learn/jpg/learn-3.jpg");
 }
 
 .learn__text {
@@ -454,7 +454,6 @@ input[type="email"]::placeholder {
   justify-content: flex-end;
   margin-bottom: 90px;
 }
-/*# sourceMappingURL=styles.css.map */
 
 .video__content {
   display: flex;
@@ -471,7 +470,7 @@ input[type="email"]::placeholder {
   width: 944px;
   height: 628px;
   background-repeat: no-repeat;
-  background-image: url("/assets/images/video/VIDEO\ \(image\).jpg");
+  background-image: url("/assets/images/video/jpg/video.jpg");
 }
 
 .video__header {
@@ -521,11 +520,11 @@ input[type="email"]::placeholder {
 }
 
 .campaigns__image_first {
-  background-image: url("/assets/images/learnMore/photo\ \(3\).jpg");
+  background-image: url("/assets/images/learnMore/learn-more-1.jpg");
 }
 
 .campaigns__image_second {
-  background-image: url("/assets/images/learnMore/photo\ \(4\).jpg");
+  background-image: url("/assets/images/learnMore/learn-more-2.jpg");
 }
 
 .item-content {
